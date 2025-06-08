@@ -1,0 +1,245 @@
+DOTA 2 Case Evidence
+Abaddon
+“Let my shield go down!”
+Alchemist
+“Chemical Rage!”
+Ancient Apparition
+“Icum frost!”
+Anti‑Mage
+“I follow the path of balance.”
+Arc Warden
+“Got an extra mirror?”
+Axe
+“Crush… OHHH!”
+Bane
+“Sweet dreams.”
+Batrider
+“Time to split the sky!”
+Beastmaster
+“BEASTMASTER!”
+Bloodseeker
+“Nothing’s over until I say it is!”
+Bounty Hunter
+“Gotcha.”
+Brewmaster
+“Let me handle this.”
+Bristleback
+“Just spray and pray.”
+Broodmother
+“Spiders… everywhere.”
+Centaur Warrunner
+“For the mountain!”
+Chaos Knight
+“Prepare for Chaos!”
+Chen
+“Let’s take this one city at a time.”
+Clinkz
+“Death is certain!”
+Clockwerk
+“Cogs in motion.”
+Crystal Maiden
+“On icy wings.”
+Dark Seer
+“Generation, activation!”
+Dark Willow
+“Tell me a joke first.”
+Dawnbreaker
+“Daybreak approaches!”
+Dazzle
+“Healing light!”
+Death Prophet
+“The dead shall prophesize!”
+Disruptor
+“Release the power!”
+Doom
+“You’re mine… forever.”
+Dragon Knight
+“I’m not afraid to die.”
+Drow Ranger
+“Watch your back.”
+Earth Spirit
+“Rock goes crunch.”
+Earthshaker
+“DOOM!”
+Elder Titan
+“Skies are darkening.”
+Ember Spirit
+“Strike like the fire within.”
+Enchantress
+“Nature is angry!”
+Enigma
+“Let the void consume.”
+Faceless Void
+“The future is yours… to change.”
+Grimstroke
+“Stroke of fate.”
+Gyrocopter
+“Lock and load!”
+Hoodwink
+“Catch me if you can.”
+Huskar
+“My pain is your glory.”
+Invoker
+“By my will… it is done.”
+Io
+“Wisps away!”
+Jakiro
+“Double trouble.”
+Juggernaut
+“Feel the blade’s edge.”
+Keeper of the Light
+“Salvation.”
+Kunkka
+“By my hand, you will fall.”
+Legion Commander
+“For the Legion!”
+Leshrac
+“Feel the power of the drop!”
+Lich
+“Feel the frost.”
+Lifestealer
+“No one escapes hunger!”
+Lina
+“He’s not gonna live.”
+Lion
+“Check this out.”
+Lone Druid
+“Nature’s fury!”
+Luna
+“Fall night, rise.”
+Lycan
+“Kill or be killed.”
+Magnus
+“Time to smash.”
+Mars
+“For honor!”
+Marci
+“Here’s a gift.”
+Medusa
+“Don’t look away.”
+Meepo
+“We’re all great together.”
+Mirana
+“By moonlight.”
+Monkey King
+“Wukong go!”
+Morphling
+“I morph to survive.”
+Naga Siren
+“Sing, my enemies.”
+Nature’s Prophet
+“I see the end of the line… in the forest.”
+Necrophos
+“Death is of the essence.”
+Night Stalker
+“Darkness falls.”
+Nyx Assassin
+“You can’t hide from me.”
+Ogre Magi
+“Fire! Fire! Fire!”
+Omniknight
+“By the power of Righteous Fury!”
+Oracle
+“The future is bright… or it is not.”
+Outworld Destroyer
+“Time bends to me.”
+Pangolier
+“Time to sword test!”
+Phantom Assassin
+“Nothing personal.”
+Phantom Lancer
+“I’m everywhere!”
+Phoenix
+“Burn it all!”
+Puck
+“Who needs eyes?”
+Pudge
+“Fresh meat!”
+Pugna
+“You’re toast!”
+Queen of Pain
+“Suffer… like I do!”
+Razor
+“Shock and awe!”
+Riki
+“Shhhhh.”
+Rubick
+“Got there in the end.”
+Sand King
+“Sand King!”
+Shadow Demon
+“Let me at ’em!”
+Shadow Fiend
+“Delight in the agony.”
+Shadow Shaman
+“I’ll bind ya!”
+Silencer
+“Silence… please.”
+Skywrath Mage
+“Truth is a blade.”
+Slardar
+“Sslip through….”
+Slark
+“In the shadows.”
+Snapfire
+“Let’s get roastin’!”
+Sniper
+“Fire in the hole!”
+Spectre
+“I am the weapon.”
+Spirit Breaker
+“SMASH!”
+Storm Spirit
+“Let the storm rage.”
+Sven
+“For justice!”
+Techies
+“BOOOM!”
+Templar Assassin
+“Reveal thyself!”
+Terrorblade
+“Behold my true form.”
+Tidehunter
+“Sea draws near.”
+Timbersaw
+“I’m through timber!”
+Tinker
+“Booyah!”
+Tiny
+“I am big.”
+Treant Protector
+“Stand silent.”
+Troll Warlord
+“Time to Rumble!”
+Tusk
+“Smile and wave.”
+Underlord
+“Feel the heat.”
+Undying
+“Decay approaches.”
+Ursa
+“Fear my claws.”
+Vengeful Spirit
+“My vengeance never rests.”
+Venomancer
+“Spines away!”
+Viper
+“Toxicity rules.”
+Visage
+“From above.”
+Void Spirit
+“Time unraveled.”
+Warlock
+“I summon the demon!”
+Weaver
+“Time to weave.”
+Windranger
+“Arrows unleashed.”
+Winter Wyvern
+“The cold does not retreat.”
+Witch Doctor
+“Call down the madness!”
+Wraith King
+“Rise again!”
+Zeus
+“Shocking!”
